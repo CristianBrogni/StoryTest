@@ -1,1 +1,1 @@
-Continuação do texto 1 que ta no outro arquivo
+Continuação do texto 1 que ta no outro arquivo , teste de branch e merge
